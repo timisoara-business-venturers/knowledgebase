@@ -1,4 +1,19 @@
-## Informatii despre completarea Declaratiei Unice pentru Veniturile din Investitii (Dividende)
+## Sumar
+
+Informatii despre completarea Declaratiei Unice pentru Veniturile din Investitii (Dividende).
+
+
+## Meta
+
+* status:
+  * ciorna (2020-05-04);
+* autori:
+  * Marius Blajevschi;
+* recenzori:
+  * Ciprian Craciun;
+
+
+## Detalii completare
 
 Pentru veniturile extrasalariale din investitii sunt necesare:
 
@@ -11,7 +26,14 @@ Nu este necesara completarea acestei sectiuni daca ati declarat venituri peste p
 2. Completarea seciuntii CASS aferente anului in curs daca:
     * estimati ca veniturile din investitii in cursul anului vor fi peste plafonul stabilit (12 x salariul minim pe economie)
 
-### Observatii
+
+## Observatii
 
 * Salariul mimin pe economie poate fi diferit de la un an la altul iar aceasta informatie (cat e salariul minim pentru fiecare an) a inceput sa apara in declaratie.
 * In anul 2019, formularul declaratiei unice continea o sectiune pentru platile deja efectuate care clarifica organului fiscal daca ati achitat deja sumele datorate pentru anul anterior. In anul 2020 aceasta sectiune a disparut si din informatiile gasite pana acum, daca ai declarat si achitat deja CASS pentru anul anterior, nu mai este nevoie sa completezi sectiunea CASS pentru anul anterior.
+
+
+## Bibliografie
+
+TBD.
+
